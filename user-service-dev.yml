@@ -2,4 +2,5 @@ data:
   env: dev
   user:
     username: user-service-dev
-    password: 54321
+    
+    password: 12121212122
